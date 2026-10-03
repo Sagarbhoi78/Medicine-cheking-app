@@ -1,0 +1,6 @@
+{
+  "name": "SMART-MED SAFE",
+  "description": "Hospital pharmacy mobile-assisted medication verification application for deterministic field-by-field safety verification before dispensing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
